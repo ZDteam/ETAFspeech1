@@ -1,0 +1,478 @@
+hello 1
+hello 2
+========================test result========================
+test_report at 10:34 2013-11-13
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:10.53%
+false reject rate:6.14%
+---------------------
+false accepted:12, right accepted:17, total accepted:29
+false rejected:7, right rejected:78, total rejected:85
+---------------------
+In false accept :
+people right && content wrong ,but accepted:12
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 11:24 2013-11-13
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:15.79%
+false reject rate:2.63%
+---------------------
+false accepted:18, right accepted:21, total accepted:39
+false rejected:3, right rejected:72, total rejected:75
+---------------------
+In false accept :
+people right && content wrong ,but accepted:18
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 11:49 2013-11-13
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:13.16%
+false reject rate:3.51%
+---------------------
+false accepted:15, right accepted:20, total accepted:35
+false rejected:4, right rejected:75, total rejected:79
+---------------------
+In false accept :
+people right && content wrong ,but accepted:15
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 9:27 2013-11-15
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:13.16%
+false reject rate:3.51%
+---------------------
+false accepted:15, right accepted:20, total accepted:35
+false rejected:4, right rejected:75, total rejected:79
+---------------------
+In false accept :
+people right && content wrong ,but accepted:15
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 10:8 2013-11-15
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:10.53%
+false reject rate:6.14%
+---------------------
+false accepted:12, right accepted:17, total accepted:29
+false rejected:7, right rejected:78, total rejected:85
+---------------------
+In false accept :
+people right && content wrong ,but accepted:12
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 10:44 2013-11-15
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:168,test people: 56,each people test 3 voice
+---------------------
+false accept rate:7.14%
+false reject rate:4.17%
+---------------------
+false accepted:12, right accepted:17, total accepted:29
+false rejected:7, right rejected:132, total rejected:139
+---------------------
+In false accept :
+people right && content wrong ,but accepted:12
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 14:28 2013-11-15
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:168,test people: 56,each people test 3 voice
+---------------------
+false accept rate:7.14%
+false reject rate:4.17%
+---------------------
+false accepted:12, right accepted:17, total accepted:29
+false rejected:7, right rejected:132, total rejected:139
+---------------------
+In false accept :
+people right && content wrong ,but accepted:12
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 16:32 2013-11-15
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:168,test people: 56,each people test 3 voice
+---------------------
+false accept rate:7.14%
+false reject rate:4.17%
+---------------------
+false accepted:12, right accepted:17, total accepted:29
+false rejected:7, right rejected:132, total rejected:139
+---------------------
+In false accept :
+people right && content wrong ,but accepted:12
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 16:41 2013-11-15
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:1,test people: 1,each people test 1 voice
+---------------------
+false accept rate:0.00%
+false reject rate:0.00%
+---------------------
+false accepted:0, right accepted:1, total accepted:1
+false rejected:0, right rejected:0, total rejected:0
+---------------------
+In false accept :
+people right && content wrong ,but accepted:0
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 8:41 2013-11-16
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:1,test people: 1,each people test 1 voice
+---------------------
+false accept rate:0.00%
+false reject rate:0.00%
+---------------------
+false accepted:0, right accepted:1, total accepted:1
+false rejected:0, right rejected:0, total rejected:0
+---------------------
+In false accept :
+people right && content wrong ,but accepted:0
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 9:3 2013-11-16
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:72,test people: 24,each people test 3 voice
+---------------------
+false accept rate:16.67%
+false reject rate:9.72%
+---------------------
+false accepted:12, right accepted:17, total accepted:29
+false rejected:7, right rejected:36, total rejected:43
+---------------------
+In false accept :
+people right && content wrong ,but accepted:12
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 9:46 2013-11-16
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:72,test people: 24,each people test 3 voice
+---------------------
+false accept rate:16.67%
+false reject rate:9.72%
+---------------------
+false accepted:12, right accepted:17, total accepted:29
+false rejected:7, right rejected:36, total rejected:43
+---------------------
+In false accept :
+people right && content wrong ,but accepted:12
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 9:52 2013-11-16
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:72,test people: 24,each people test 3 voice
+---------------------
+false accept rate:15.28%
+false reject rate:9.72%
+---------------------
+false accepted:11, right accepted:17, total accepted:28
+false rejected:7, right rejected:37, total rejected:44
+---------------------
+In false accept :
+people right && content wrong ,but accepted:11
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 10:4 2013-11-16
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:168,test people: 56,each people test 3 voice
+---------------------
+false accept rate:6.55%
+false reject rate:4.17%
+---------------------
+false accepted:11, right accepted:17, total accepted:28
+false rejected:7, right rejected:133, total rejected:140
+---------------------
+In false accept :
+people right && content wrong ,but accepted:11
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 11:13 2013-11-16
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:9.65%
+false reject rate:6.14%
+---------------------
+false accepted:11, right accepted:17, total accepted:28
+false rejected:7, right rejected:79, total rejected:86
+---------------------
+In false accept :
+people right && content wrong ,but accepted:11
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 15:31 2013-11-16
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:9.65%
+false reject rate:5.26%
+---------------------
+false accepted:11, right accepted:18, total accepted:29
+false rejected:6, right rejected:79, total rejected:85
+---------------------
+In false accept :
+people right && content wrong ,but accepted:11
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 15:45 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:7.14%
+false reject rate:28.57%
+---------------------
+false accepted:1, right accepted:3, total accepted:4
+false rejected:4, right rejected:6, total rejected:10
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 15:48 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:14.29%
+false reject rate:28.57%
+---------------------
+false accepted:2, right accepted:3, total accepted:5
+false rejected:4, right rejected:5, total rejected:9
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 15:54 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:14.29%
+false reject rate:28.57%
+---------------------
+false accepted:2, right accepted:3, total accepted:5
+false rejected:4, right rejected:5, total rejected:9
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 15:56 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:14.29%
+false reject rate:28.57%
+---------------------
+false accepted:2, right accepted:3, total accepted:5
+false rejected:4, right rejected:5, total rejected:9
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 16:20 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:14.29%
+false reject rate:28.57%
+---------------------
+false accepted:2, right accepted:3, total accepted:5
+false rejected:4, right rejected:5, total rejected:9
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:1
+========================test end ===========================
+========================test result========================
+test_report at 16:21 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:7.14%
+false reject rate:28.57%
+---------------------
+false accepted:1, right accepted:3, total accepted:4
+false rejected:4, right rejected:6, total rejected:10
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 16:39 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:14.29%
+false reject rate:28.57%
+---------------------
+false accepted:2, right accepted:2, total accepted:4
+false rejected:4, right rejected:6, total rejected:10
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:1
+========================test end ===========================
+========================test result========================
+test_report at 16:42 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:14.29%
+false reject rate:28.57%
+---------------------
+false accepted:2, right accepted:2, total accepted:4
+false rejected:4, right rejected:6, total rejected:10
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:1
+========================test end ===========================
+========================test result========================
+test_report at 16:46 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:14.29%
+false reject rate:28.57%
+---------------------
+false accepted:2, right accepted:2, total accepted:4
+false rejected:4, right rejected:6, total rejected:10
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:1
+========================test end ===========================
+========================test result========================
+test_report at 16:55 2013-11-16
+train set:
+door number:6, people in each door:3, voice of each people:3 
+test set:
+total test voice num:14,test people: 7,each people test 2 voice
+---------------------
+false accept rate:7.14%
+false reject rate:28.57%
+---------------------
+false accepted:1, right accepted:2, total accepted:3
+false rejected:4, right rejected:7, total rejected:11
+---------------------
+In false accept :
+people right && content wrong ,but accepted:1
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 22:35 2013-12-4
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:9.65%
+false reject rate:5.26%
+---------------------
+false accepted:11, right accepted:18, total accepted:29
+false rejected:6, right rejected:79, total rejected:85
+---------------------
+In false accept :
+people right && content wrong ,but accepted:11
+people worng ,but accepted:0
+========================test end ===========================
+========================test result========================
+test_report at 22:43 2013-12-4
+train set:
+door number:8, people in each door:3, voice of each people:3 
+test set:
+total test voice num:114,test people: 38,each people test 3 voice
+---------------------
+false accept rate:9.65%
+false reject rate:6.14%
+---------------------
+false accepted:11, right accepted:17, total accepted:28
+false rejected:7, right rejected:79, total rejected:86
+---------------------
+In false accept :
+people right && content wrong ,but accepted:11
+people worng ,but accepted:0
+========================test end ===========================
